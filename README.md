@@ -4,7 +4,7 @@ This repository is created to guide students in the **Mixed Reality Design** cla
 Refer to the course materials for detailed instructions.  
 
 1. upload your project to GitHub and submit the GitHub **Pages** link.
-2. In the README, credit any assets you downloaded.
+2. In the README, explain what the project is about, any instructions needed (how to navigate in the A-Fame scene, any interactions, etc), credit any assets you downloaded.
 
 ### Basic markdown syntax for your README 
 
@@ -15,7 +15,7 @@ Use `#` for headings. More `#` means a smaller heading.
 ```markdown
 # Heading 1  
 ## Heading 2  
-### Heading 3  
+### Heading 3   
 ```
 
 #### 📌 Paragraphs
